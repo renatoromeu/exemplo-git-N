@@ -1,1 +1,60 @@
-kkkkkkk
+10 03 2023 - RESPONSIVE WEB DEVELOPMENT
+
+=================================================
+
+	shift + insert (cola a informação copiada no bash)
+
+=================================================
+	> Configração git config
+		- git config -- global user.name "nome"
+		- git config -- global user.email email
+
+	> mkdir (maker directory) - criar um diretorio
+		- cd nome da pasta para entrar
+
+	> cd nome da pasta
+
+	> pwd mostrar o diretório em que voce esta
+
+	> ls -la para verificar os dados de uma pasta
+
+	> git config
+	> git init
+
+	> git status mostra o status de versionamento do arquivo
+
+	> git add primeiro aquivo de texto.txt
+
+	> git commit -m "adicionando primeirogit.txt" (usar "" para espaçamento no nome do arquivo /// caso contrário não precisa das "")
+
+	> git log (verificar o versionamento do documento)
+		- numero gigante no commit chama Hash
+		- exemplo: 0e7b50282253fbcc729d27fa60f5848aa51f5e35
+
+	> git show (para mostrar as alterações)
+
+	> git diff (para mostrar as diferenças)
+
+	> git checkout primeirogit.txt
+
+	> git reset --soft (hash)
+	> git reset --mixed (hash)
+	> git reset --hard (hahs)
+
+=================================================
+
+	descobrir como fazer checkout de todas as pastas ou arquivos
+
+=================================================
+
+	> criar github
+		- não é possível descrever aqui***
+
+	> no Bash
+		- git remote add origin https://github.com/renatoromeu/exemplo-git-N.git
+				- URL altera para cada aluno
+			- git branch -M main (main pode ser qualquer coisa ex: darth vader)
+			- git push -u origin main
+		- git remove -v
+
+=================================================
