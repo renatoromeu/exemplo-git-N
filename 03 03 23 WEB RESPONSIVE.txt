@@ -1,0 +1,36 @@
+RESPONSIVE WEB DEVELOPMENT
+DANILO VITORIANO
+
+=========================================================================
+
+FRAMEWORKS
+	
+	Pacotes facilitadores para a criação de web (biblioteca/plugin)
+	html, css, javascript
+
+	> JQuerry framework para o javascript
+	> React biblioteca para javascript que iremos usar nas aulas
+	> vue.js framework para javascript
+	> ??? framework para CSS
+	> Spring para o java	
+
+	> DOWNLOAD stackoverflow (para buscar códigos)
+
+	Camada adicional de comandos
+
+	home.html
+		> imagem
+		> titulo
+		> formulario nome
+		> formulario senha
+		> submit entrada
+
+=========================================================================
+
+GIT, GITHUB
+
+	Controle de versão
+	Git - principais comandos
+	GitHub - repositório remoto
+
+=========================================================================
